@@ -1,1 +1,17 @@
-Hi Welcome
+S. No.	Input Field	Description
+1	Student ID	Unique identification number
+2	Full Name	Student's complete name
+3	Date of Birth	Student's birth date
+4	Gender	Male, Female, or Other
+5	Email Address	Student's email ID
+6	Mobile Number	Student's contact number
+7	Address	Residential address
+8	Course Name	Name of the enrolled course
+9	Department	Department name
+10	Year of Study	Current academic year
+11	Username	Login username
+12	Password	Secure login password
+13	Confirm Password	Re-enter the password for verification
+
+
+
