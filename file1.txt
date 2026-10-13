@@ -1,1 +1,17 @@
-"# file 1" 
+Student Result Entry
+Example student record
+Student ID
+
+STU1025
+
+Student Name
+
+Rahul Kumar
+
+Course
+
+B.Tech CSE
+
+Semester
+
+Semester 3
